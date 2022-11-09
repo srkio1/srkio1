@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Carlos Daniel</h1>
+<h1 align="center">Hola 👋,Soy Carlos Daniel</h1>
 <h3 align="center">Programador de aplicaciones movil</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/personaje-de-dibujos-animados-del-programador-120364763.jpg">
 
